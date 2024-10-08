@@ -22,4 +22,4 @@ This project is a React-based task management application that allows users to c
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/BalajiM5710/Task-Management-DnD.git
+   git clone https://github.com/mithileshangu/Task-Management-DnD.git
